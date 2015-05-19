@@ -1,0 +1,15 @@
+{
+	"version": "0.1.0",
+	"configurations": [
+		{
+			"name": "Run",
+			"type": "node",
+			"program": "./lib/index.js",
+			"stopOnEntry": true,
+			"args": [],
+			"cwd": "./lib",
+			"runtimeExecutable": null,
+			"env": { }
+		}
+	]
+}

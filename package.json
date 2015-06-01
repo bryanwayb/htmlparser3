@@ -1,0 +1,16 @@
+{
+  "name": "htmlparser3",
+  "version": "0.0.1",
+  "description": "HTML parsing engine",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "html",
+    "parsing",
+    "htmlparser3"
+  ],
+  "author": "Bryan Way",
+  "license": "MIT"
+}
